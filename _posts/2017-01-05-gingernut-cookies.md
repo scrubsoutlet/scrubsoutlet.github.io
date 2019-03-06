@@ -1,9 +1,9 @@
 ---
 date: 2019-01-05
-title: Gingernut Cookies
+title: Ice cream bath bombs
 categories:
   - Cookies
-featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+featured_image: '/images/ice-cream.jpg'
 recipe:
   servings: 60 cookies
   prep: 15 minutes
@@ -23,7 +23,7 @@ recipe:
     5. Bake at 350°F for 15 minutes.
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
+Ice cream, you scream, because this is a bath bomb!!!! Scented with lavender and natural cherry extract; then topped with goat milk soap "hot fudge" and sprinkles!
 
 ![Cookie](https://source.unsplash.com/euGck1ifvp0)
 
