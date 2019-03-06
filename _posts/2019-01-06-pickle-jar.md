@@ -3,7 +3,7 @@ date: 2017-01-06
 title: Lemon Cake
 categories:
   - Cakes
-featured_image: '/images/pickle.jpg'
+featured_image: '/images/pickle-jar.jpg'
 ---
 In a pickle for the perfect gift? Buy a pickle jar! Each tiny jar has five goat milk soap pickles. Scented lime. These are kind of a big dill!
 
