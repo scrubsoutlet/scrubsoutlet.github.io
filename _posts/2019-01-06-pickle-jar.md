@@ -3,18 +3,10 @@ date: 2017-01-06
 title: Lemon Cake
 categories:
   - Cakes
-featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
+featured_image: '/images/pickle.jpg'
 ---
-If you're a sour fan you're going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
+In a pickle for the perfect gift? Buy a pickle jar! Each tiny jar has five goat milk soap pickles. Scented lime. These are kind of a big dill!
 
-![Cake](https://source.unsplash.com/1HPTYLozDGw)
+![Pickle jar]{/images/pickle.jpg}
 
-Straight out of the oven.
-
-![Cake](https://source.unsplash.com/WoVGndRTx2o)
-
-You can add extra flavour with berries.
-
-![Cake](https://source.unsplash.com/7JYVKRo7i5Q)
-
-Or a caramel sauce.
+(Buy now)[https://www.etsy.com/listing/597672052/pickle-jar-lime-goat-milk-novelty-soap]
