@@ -26,3 +26,5 @@ recipe:
 Ice cream, you scream, because this is a bath bomb!!!! Scented with lavender and natural cherry extract; then topped with goat milk soap "hot fudge" and sprinkles!
 
 ![Ice cream bath bomb](/images/ice-cream.jpg)
+
+(Buy now)[https://www.etsy.com/listing/611502361/ice-cream-sundae-lavender-and-cherry]
