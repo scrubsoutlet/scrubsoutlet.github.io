@@ -1,6 +1,6 @@
 ---
-date: 2017-01-06
-title: Lemon Cake
+date: 2019-01-06
+title: Pickle jar
 categories:
   - Cakes
 featured_image: '/images/pickle-jar.jpg'
